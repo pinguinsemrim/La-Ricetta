@@ -11,7 +11,7 @@ header{
     height: 100px;
     margin: 0;
     background-color: rgb(15, 15, 15);
-    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
 }
 .title-header{
     color:white;
@@ -37,7 +37,7 @@ header{
     width:90%;
     height: 80%;
     border-radius: 20px;
-    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.7);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
 }
 .recp-grand img{
     width: 100%;
@@ -74,7 +74,7 @@ header{
     font-size: 15px;  
     transition: all 0.5s;
     margin-left: 70%;
-    margin-top: -3%;
+    margin-top: -5%;
 }
 
 .grand-text a:hover{
@@ -113,9 +113,9 @@ header{
     margin-left: 1%;
    background-color: #ff9100;
    padding-bottom: 5px;
-   height: min-content;
+   
    border-radius: 10px;
-   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.7);
+   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 .reseitas img{
